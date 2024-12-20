@@ -1,0 +1,10 @@
+C:\Users\rizat\Desktop\pys\pys\bin\Debug\pys.exe.config
+C:\Users\rizat\Desktop\pys\pys\bin\Debug\pys.exe
+C:\Users\rizat\Desktop\pys\pys\bin\Debug\pys.pdb
+C:\Users\rizat\Desktop\pys\pys\obj\Debug\pys.csproj.AssemblyReference.cache
+C:\Users\rizat\Desktop\pys\pys\obj\Debug\pys.Form1.resources
+C:\Users\rizat\Desktop\pys\pys\obj\Debug\pys.Properties.Resources.resources
+C:\Users\rizat\Desktop\pys\pys\obj\Debug\pys.csproj.GenerateResource.cache
+C:\Users\rizat\Desktop\pys\pys\obj\Debug\pys.csproj.CoreCompileInputs.cache
+C:\Users\rizat\Desktop\pys\pys\obj\Debug\pys.exe
+C:\Users\rizat\Desktop\pys\pys\obj\Debug\pys.pdb
